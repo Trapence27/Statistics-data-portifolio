@@ -42,5 +42,6 @@ Academic research project completed at the University of Malawi.
 
 ## Author
 
+Bright Trapence
 BSc Statistics Graduate  
 University of Malawi
