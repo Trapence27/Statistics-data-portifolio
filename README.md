@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio!
 
-I am a recent **BSc Statistics graduate from the University of Malawi**, with an interest in statistical research, data analytics, economic analysis and predictive modelling.
+I am a recent **BSc Statistics graduate from the University of Malawi**, with an interest in risk analysis, statistical research, data analytics, economic analysis and predictive modelling.
 
 I enjoy transforming raw data into meaningful insights that can support evidence-based decision-making.
 
@@ -11,7 +11,7 @@ I enjoy transforming raw data into meaningful insights that can support evidence
 - **Statistical Software:** R, STATA, SPSS
 - **Data Analysis:** Microsoft Excel, data cleaning, data preparation and statistical analysis
 - **Data Visualization:** Power BI
-- **Programming:** Python (currently developing my skills)
+- **Programming:** Python, Java programming, HTML, CSS
 
 ## Research & Academic Projects
 
