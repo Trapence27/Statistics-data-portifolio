@@ -13,6 +13,7 @@ The study uses historical GDP growth data from the World Bank covering 1961–20
 - Apply time series models to forecast future GDP growth.
 - Compare the forecasting performance of different models.
 - Evaluate model adequacy using diagnostic tests.
+- Forecasting Malawi's GDP growth for the next 5 years.
 
 ## Methodology
 
